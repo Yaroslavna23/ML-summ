@@ -8,7 +8,7 @@ In this example is used summarising model from Hugging Face Hub.
 
 ```bash
 # Create a virtual environment
-python3.11 -m venv env
+python3 -m venv env
 
 # Activate the virtual environment
 env/Scripts/Activate.ps1 
