@@ -11,7 +11,7 @@ In this example is used summarising model from Hugging Face Hub.
 python3.11 -m venv env
 
 # Activate the virtual environment
-source env/bin/activate
+env/Scripts/Activate.ps1 
 
 # Install/upgrade dependencies
 pip install -U -e .
