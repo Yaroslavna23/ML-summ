@@ -25,7 +25,7 @@ make test_ml
 
 # Run app
 uvicorn app.app:app --host 0.0.0.0 --port 8080
-
+![illusrtation of web-app]![image](https://github.com/Yaroslavna23/ML-summ/assets/129892006/9afd7c9d-de6a-4963-9d35-60d4dcc6cb59))
 # Deactivate the virtual environment
 deactivate
 ```
