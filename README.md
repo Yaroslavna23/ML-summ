@@ -29,9 +29,9 @@ uvicorn app.app:app --host 0.0.0.0 --port 8080
 # Deactivate the virtual environment
 deactivate
 ``
-(![image](https://github.com/Yaroslavna23/ML-summ/assets/129892006/7ba4097a-9dbf-46ed-a790-a1cb6ccdda28)
+!([image](https://github.com/Yaroslavna23/ML-summ/assets/129892006/7ba4097a-9dbf-46ed-a790-a1cb6ccdda28)
 
-(https://github.com/Yaroslavna23/ML-summ/assets/129892006/9afd7c9d-de6a-4963-9d35-60d4dcc6cb59)
+!(https://github.com/Yaroslavna23/ML-summ/assets/129892006/9afd7c9d-de6a-4963-9d35-60d4dcc6cb59)
 ## Run app in docker container
 
 ```bash
