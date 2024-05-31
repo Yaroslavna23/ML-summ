@@ -29,8 +29,8 @@ uvicorn app.app:app --host 0.0.0.0 --port 8080
 # Deactivate the virtual environment
 deactivate
 ``
-![URL](https://habrastorage.org/r/w1560/getpro/habr/upload_files/749/9a8/866/7499a88664737bc9ee7c257114b9e460.png)
-![WEB-app](https://github.com/Yaroslavna23/ML-summ/assets/129892006/854c5d56-7b66-499b-9ecc-16cff5b94486)
+![alt text](![image](https://github.com/Yaroslavna23/ML-summ/assets/129892006/891860c8-6ea0-4c82-8a0a-2afe353f4c0b)
+)
 
 
 ## Run app in docker container
